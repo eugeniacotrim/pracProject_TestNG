@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T10:00:18 PDT" name="PizzaHutReportingSuite" finished-at="2024-03-13T10:00:36 PDT" duration-ms="18415">
+    <groups>
+    </groups>
+    <test started-at="2024-03-13T10:00:18 PDT" name="TestLumaFashion" finished-at="2024-03-13T10:00:36 PDT" duration-ms="18415">
+      <class name="com.test.exec.LumaFashion">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:16 PDT" name="openApp" finished-at="2024-03-13T10:00:18 PDT" duration-ms="1493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:18 PDT" name="openApp" finished-at="2024-03-13T10:00:19 PDT" duration-ms="611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="registration()[pri:1, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:19 PDT" name="registration" finished-at="2024-03-13T10:00:21 PDT" duration-ms="2090" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method signature="loginIncorrectPW()[pri:2, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:21 PDT" name="loginIncorrectPW" finished-at="2024-03-13T10:00:24 PDT" duration-ms="2955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginIncorrectPW -->
+        <test-method signature="loginBlankPW()[pri:3, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:24 PDT" name="loginBlankPW" finished-at="2024-03-13T10:00:26 PDT" duration-ms="1417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBlankPW -->
+        <test-method signature="loginUnregisteredEmail()[pri:4, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:26 PDT" name="loginUnregisteredEmail" finished-at="2024-03-13T10:00:28 PDT" duration-ms="2836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUnregisteredEmail -->
+        <test-method signature="loginBlankEmail()[pri:5, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:28 PDT" name="loginBlankEmail" finished-at="2024-03-13T10:00:30 PDT" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBlankEmail -->
+        <test-method signature="searchProduct()[pri:6, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:30 PDT" name="searchProduct" finished-at="2024-03-13T10:00:32 PDT" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="addToCart()[pri:7, instance:com.test.exec.LumaFashion@4f8969b0]" started-at="2024-03-13T10:00:32 PDT" name="addToCart" finished-at="2024-03-13T10:00:36 PDT" duration-ms="4619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+      </class> <!-- com.test.exec.LumaFashion -->
+    </test> <!-- TestLumaFashion -->
+  </suite> <!-- PizzaHutReportingSuite -->
+</testng-results>
