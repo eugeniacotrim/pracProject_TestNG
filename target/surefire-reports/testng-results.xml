@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-14T15:51:28 PDT" name="PizzaHutReportingSuite" finished-at="2024-03-14T15:51:49 PDT" duration-ms="21131">
+  <suite started-at="2024-03-15T10:24:40 PDT" name="LumaFashionReportingSuite" finished-at="2024-03-15T10:24:57 PDT" duration-ms="17750">
     <groups>
     </groups>
-    <test started-at="2024-03-14T15:51:28 PDT" name="TestLumaFashion" finished-at="2024-03-14T15:51:49 PDT" duration-ms="21131">
+    <test started-at="2024-03-15T10:24:40 PDT" name="TestLumaFashion" finished-at="2024-03-15T10:24:57 PDT" duration-ms="17750">
       <class name="com.test.exec.LumaFashion">
-        <test-method is-config="true" signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:26 PDT" name="openApp" finished-at="2024-03-14T15:51:28 PDT" duration-ms="1984" status="PASS">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:38 PDT" name="openApp" finished-at="2024-03-15T10:24:40 PDT" duration-ms="1615" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:28 PDT" name="openApp" finished-at="2024-03-14T15:51:29 PDT" duration-ms="572" status="PASS">
+        <test-method signature="openApp()[pri:0, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:40 PDT" name="openApp" finished-at="2024-03-15T10:24:41 PDT" duration-ms="525" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openApp -->
-        <test-method signature="registration()[pri:1, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:29 PDT" name="registration" finished-at="2024-03-14T15:51:33 PDT" duration-ms="4554" status="PASS">
+        <test-method signature="registration()[pri:1, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:41 PDT" name="registration" finished-at="2024-03-15T10:24:43 PDT" duration-ms="2619" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
-        <test-method signature="loginIncorrectPW()[pri:2, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:33 PDT" name="loginIncorrectPW" finished-at="2024-03-14T15:51:36 PDT" duration-ms="2693" status="PASS">
+        <test-method signature="loginIncorrectPW()[pri:2, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:43 PDT" name="loginIncorrectPW" finished-at="2024-03-15T10:24:46 PDT" duration-ms="2484" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginIncorrectPW -->
-        <test-method signature="loginBlankPW()[pri:3, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:36 PDT" name="loginBlankPW" finished-at="2024-03-14T15:51:37 PDT" duration-ms="1443" status="PASS">
+        <test-method signature="loginBlankPW()[pri:3, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:46 PDT" name="loginBlankPW" finished-at="2024-03-15T10:24:47 PDT" duration-ms="1361" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginBlankPW -->
-        <test-method signature="loginUnregisteredEmail()[pri:4, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:37 PDT" name="loginUnregisteredEmail" finished-at="2024-03-14T15:51:40 PDT" duration-ms="2767" status="PASS">
+        <test-method signature="loginUnregisteredEmail()[pri:4, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:47 PDT" name="loginUnregisteredEmail" finished-at="2024-03-15T10:24:50 PDT" duration-ms="2479" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginUnregisteredEmail -->
-        <test-method signature="loginBlankEmail()[pri:5, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:40 PDT" name="loginBlankEmail" finished-at="2024-03-14T15:51:42 PDT" duration-ms="1448" status="PASS">
+        <test-method signature="loginBlankEmail()[pri:5, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:50 PDT" name="loginBlankEmail" finished-at="2024-03-15T10:24:51 PDT" duration-ms="1182" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginBlankEmail -->
-        <test-method signature="searchProduct()[pri:6, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:42 PDT" name="searchProduct" finished-at="2024-03-14T15:51:44 PDT" duration-ms="2009" status="PASS">
+        <test-method signature="searchProduct()[pri:6, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:51 PDT" name="searchProduct" finished-at="2024-03-15T10:24:53 PDT" duration-ms="1627" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
-        <test-method signature="addToCart()[pri:7, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:44 PDT" name="addToCart" finished-at="2024-03-14T15:51:48 PDT" duration-ms="4791" status="PASS">
+        <test-method signature="addToCart()[pri:7, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:53 PDT" name="addToCart" finished-at="2024-03-15T10:24:57 PDT" duration-ms="4720" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addToCart -->
-        <test-method signature="closeApp()[pri:8, instance:com.test.exec.LumaFashion@1d9bec4d]" started-at="2024-03-14T15:51:48 PDT" name="closeApp" finished-at="2024-03-14T15:51:49 PDT" duration-ms="258" status="PASS">
+        <test-method signature="closeApp()[pri:8, instance:com.test.exec.LumaFashion@60bdf15d]" started-at="2024-03-15T10:24:57 PDT" name="closeApp" finished-at="2024-03-15T10:24:57 PDT" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApp -->
       </class> <!-- com.test.exec.LumaFashion -->
     </test> <!-- TestLumaFashion -->
-  </suite> <!-- PizzaHutReportingSuite -->
+  </suite> <!-- LumaFashionReportingSuite -->
 </testng-results>
